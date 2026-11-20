@@ -1,6 +1,6 @@
 /*
 Title:- Browser Navigation System Using Stack
-Roll No:-CO2030
+Roll No:-CO2130
 */
 #include <stdio.h>
 #include <string.h>
